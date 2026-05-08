@@ -1,6 +1,8 @@
 from figura_geometrica import FiguraGeometrica
 
 
+
+
 class Cuadrado(FiguraGeometrica):
     """Clase que representa un cuadrado, hereda de FiguraGeometrica."""
 

@@ -1,6 +1,7 @@
 from figura_geometrica import FiguraGeometrica
 
 
+
 class Rectangulo(FiguraGeometrica):
     """Clase que representa un rectángulo, hereda de FiguraGeometrica."""
 

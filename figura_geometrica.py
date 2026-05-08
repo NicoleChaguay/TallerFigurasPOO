@@ -8,6 +8,7 @@ class FiguraGeometrica:
         self.ancho = ancho
 
     @property
+    
     def alto(self):
         return self._alto
 

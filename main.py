@@ -1,5 +1,5 @@
-from cuadrado import Cuadrado
 from rectangulo import Rectangulo
+from cuadrado import Cuadrado
 from datetime import datetime
 
 
