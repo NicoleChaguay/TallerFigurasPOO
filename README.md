@@ -2,10 +2,6 @@
 #### Curso: GIG-S-NO-3-4
 #### Materia: Programación Orientada a Objetos. 
 #### Docente: Jose Cordova Aragundi.
-*Estudiante:* Nicole Samara Chaguay Alejandro.
-*Curso:* GIG-S-NO-3-4
-*Materia:* Programación Orientada a Objetos. 
-*Docente:* Jose Cordova Aragundi.
 
 # Taller POO: Figuras Geométricas
 
@@ -23,6 +19,5 @@ En este taller se pone en practica la creación de figuras geométricas (Cuadrad
 3. **Polimorfismo**: Las funciones **sumar_areas** y **sumar_perimetros** procesan cualquier objeto derivado de la base sin importar su tipo específico.
 
 ## Evidencia de Ejecución
-*(Aquí deberás adjuntar la captura de pantalla de tu terminal ejecutando main.py)*
 ![image](image.png)
 
